@@ -2,10 +2,10 @@ cask "zero" do
   version "0.1.1"
   sha256 "97e215efd081ca9cf015efe59e888da36213a146a980d62dc59481896905cfb9"
 
-  url "https://github.com/vidvidvid/zero/releases/download/v#{version}/zero_aarch64.dmg"
+  url "https://github.com/zero-editor/zero/releases/download/v#{version}/zero_aarch64.dmg"
   name "zero"
   desc "Minimal code editor built around running coding agents"
-  homepage "https://github.com/vidvidvid/zero"
+  homepage "https://github.com/zero-editor/zero"
 
   livecheck do
     url :url
