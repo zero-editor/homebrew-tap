@@ -1,6 +1,6 @@
 cask "zero" do
-  version "0.59.4"
-  sha256 "b79b165e303b5b561b2c2a4a42cbc11a235e9ea08db346602fc4042b72001555"
+  version "0.60.0"
+  sha256 "ec9159a188553ee4bdbdb7a27c106aeab1889630054b41c9ca88daa1a8d24f18"
 
   url "https://github.com/zero-editor/zero/releases/download/v#{version}/zero_aarch64.dmg"
   name "zero"
